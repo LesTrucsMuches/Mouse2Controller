@@ -14,3 +14,4 @@ to view my first playtest, check my youtube channel
 https://www.youtube.com/watch?v=a2jzzDRAt68
 
 this script is not out of bug. one time the game lag because of the script, I need to stop and restart the script
+I play with a 1920x1080 screen, bigger screen work but the cursor still remain in the 1920x1080 area. Adapt the code for your screen if not 1920x1080.
