@@ -1,6 +1,6 @@
 # Mouse2Controller
 
-Python script who map mouse mouvement to keyboard arrows
+Python script who map mouse direction to keyboard arrows
 the right, middle and left click are also map to keyboard button
 and the key "esc" exit the script.
 
